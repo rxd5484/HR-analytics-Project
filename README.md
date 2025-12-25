@@ -393,3 +393,28 @@ Employee Attrition Prediction System | Python, Scikit-learn, XGBoost, SQL, FastA
 ---
 
 **⭐ If this project helped you, please star the repository!**
+<img width="1440" height="899" alt="Screenshot 2025-12-26 at 12 01 11 AM" src="https://github.com/user-attachments/assets/714397d4-18ae-4802-aad9-4c4910444950" />
+
+<img width="1440" height="536" alt="Screenshot 2025-12-26 at 12 01 19 AM" src="https://github.com/user-attachments/assets/113be7da-62e0-48c6-abcb-0112bc8e8fdd" />
+
+<img width="1440" height="851" alt="Screenshot 2025-12-26 at 12 01 34 AM" src="https://github.com/user-attachments/assets/72f6ff98-8aae-440c-886d-23dacb1dceca" />
+
+<img width="1440" height="576" alt="Screenshot 2025-12-26 at 12 01 47 AM" src="https://github.com/user-attachments/assets/e57d8a1a-f7a5-4de2-93f8-d73626860242" />
+
+<img width="1440" height="723" alt="Screenshot 2025-12-26 at 12 01 54 AM" src="https://github.com/user-attachments/assets/b0748c0f-5e0d-440f-b37b-c6dcf70fdf5f" />
+
+<img width="1064" height="646" alt="Screenshot 2025-12-26 at 12 03 42 AM" src="https://github.com/user-attachments/assets/2750145a-45f2-4104-9b12-369a7d1324fa" />
+
+<img width="729" height="281" alt="Screenshot 2025-12-26 at 12 04 01 AM" src="https://github.com/user-attachments/assets/b2562ea3-955d-49c4-94d2-49b3e42be773" />
+
+<img width="1101" height="622" alt="Screenshot 2025-12-26 at 12 07 28 AM" src="https://github.com/user-attachments/assets/02e83a86-a7b4-4a6f-8e47-d578c5944221" />
+
+<img width="1055" height="621" alt="Screenshot 2025-12-26 at 12 07 37 AM" src="https://github.com/user-attachments/assets/81ac5272-be58-4be6-84fe-d2d4df97d1f2" />
+
+
+
+
+
+
+
+
