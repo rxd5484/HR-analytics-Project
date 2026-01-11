@@ -9,7 +9,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
 
 ---
-
+Please scroll down for proof of work.
 ## 📊 Project Overview
 
 This project demonstrates end-to-end data science workflow for HR analytics, addressing a critical business problem: **predicting employee attrition before it happens**.
@@ -52,48 +52,7 @@ This project demonstrates end-to-end data science workflow for HR analytics, add
 
 ---
 
-## 📁 Project Structure
 
-```
-hr-analytics-project/
-├── data/
-│   ├── employee_data.csv           # 15K employee records
-│   └── data_dictionary.md          # Feature descriptions
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb               # Exploratory Data Analysis
-│   ├── 02_Feature_Engineering.ipynb
-│   └── 03_Model_Training.ipynb    # ML model development
-│
-├── src/
-│   ├── data_preprocessing.py      # Data cleaning pipeline
-│   ├── feature_engineering.py     # Feature creation
-│   ├── models/
-│   │   ├── train_models.py        # Model training
-│   │   └── evaluate_models.py     # Model evaluation
-│   └── api/
-│       └── main.py                # FastAPI endpoints
-│
-├── visualizations/
-│   ├── attrition_by_department.png
-│   ├── correlation_heatmap.png
-│   └── feature_importance.png
-│
-├── models/
-│   ├── random_forest_model.pkl
-│   ├── xgboost_model.pkl
-│   └── logistic_regression_model.pkl
-│
-├── database/
-│   └── schema.sql                 # MySQL database schema
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🚀 Quick Start
 
 ### **1. Clone Repository**
 ```bash
