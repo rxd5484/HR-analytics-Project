@@ -15,17 +15,17 @@ Please scroll down for proof of work.
 This project demonstrates end-to-end data science workflow for HR analytics, addressing a critical business problem: **predicting employee attrition before it happens**.
 
 ### **Business Impact:**
-- 💰 Reduce recruitment costs (avg $4,000 per hire)
-- 📈 Improve retention strategies
-- 🎯 Identify high-risk employees proactively
-- 📊 Data-driven workforce planning
+-  Reduce recruitment costs (avg $4,000 per hire)
+-  Improve retention strategies
+-  Identify high-risk employees proactively
+-  Data-driven workforce planning
 
 ### **Key Achievements:**
-- ✅ **85% accuracy** in predicting employee turnover
-- ✅ Analyzed **15,000+ employee records** across 5 departments
-- ✅ Identified **top 5 attrition drivers** through statistical analysis
-- ✅ Built **production-ready API** for real-time risk scoring
-- ✅ Created **interactive dashboards** for HR decision-makers
+- **85% accuracy** in predicting employee turnover
+- Analyzed **15,000+ employee records** across 5 departments
+- Identified **top 5 attrition drivers** through statistical analysis
+- Built **production-ready API** for real-time risk scoring
+- Created **interactive dashboards** for HR decision-makers
 
 ---
 
@@ -270,31 +270,31 @@ Remote work option → 31% improvement in retention
 
 ## 🎓 Skills Demonstrated
 
-✅ **Machine Learning**
+ **Machine Learning**
 - Supervised learning (classification)
 - Ensemble methods (Random Forest, XGBoost)
 - Hyperparameter tuning (GridSearchCV)
 - Model evaluation & selection
 
-✅ **Statistical Analysis**
+ **Statistical Analysis**
 - Hypothesis testing (Chi-Square, T-test, ANOVA)
 - Correlation analysis
 - Distribution analysis
 - Statistical significance testing
 
-✅ **Data Science Workflow**
+ **Data Science Workflow**
 - Exploratory Data Analysis (EDA)
 - Feature engineering
 - Data preprocessing
 - Model deployment
 
-✅ **Tools & Technologies**
+ **Tools & Technologies**
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL database design & queries
 - API development (FastAPI)
 - Data visualization (Matplotlib, Seaborn, Plotly)
 
-✅ **Business Acumen**
+**Business Acumen**
 - Translating data insights to business actions
 - ROI calculations
 - Stakeholder communication
@@ -313,7 +313,7 @@ Remote work option → 31% improvement in retention
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Please open an issue or submit a PR.
 
