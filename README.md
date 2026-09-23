@@ -1,6 +1,6 @@
 # HR-analytics-Project
 
-# 🎯 Employee Attrition Prediction & HR Analytics
+# Employee Attrition Prediction & HR Analytics
 
 **Production-ready ML system for predicting employee turnover and analyzing workforce patterns**
 
@@ -10,7 +10,7 @@
 
 ---
 Please scroll down for proof of work.
-## 📊 Project Overview
+## Project Overview
 
 This project demonstrates end-to-end data science workflow for HR analytics, addressing a critical business problem: **predicting employee attrition before it happens**.
 
@@ -124,7 +124,7 @@ ANOVA (Satisfaction vs Attrition): F = 156.3, p < 0.001 ✅ Significant
 
 ---
 
-## 🎯 Business Use Cases
+## Business Use Cases
 
 ### **1. Proactive Retention**
 ```python
